@@ -1,0 +1,1 @@
+Here's a blog about information technology.  I want to talk about the different career paths within the Information Technology industry.  Learning about these career paths will help map out the IT industry.
