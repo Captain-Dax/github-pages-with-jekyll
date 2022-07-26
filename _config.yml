@@ -1,13 +1,112 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Captain Dax GitHub Resume
+author: Captain-Dax
+email: brenden.d.mcdaniel@outlook.com
+theme: minima
+description: > 
+Brenden “Dax” McDaniel
+bdmcdaniel@hotmail.com						(571) 469-7481
+https://www.linkedin.com/in/dax-mcdaniel/				Sioux Falls, South Dakota	
+OBJECTIVE
+Utilize broad military and civilian work histories, diverse graduate and professional education, and over 11 years of networking and leadership experience to develop business opportunities as a Business Networking Engineer III for MIDCO in Sioux Falls.  Earned CCNA, CompTIA Security Plus, and Project Plus certifications in the last 4 months and attended 160 hours of ENCOR and ENARSI training.  My reliability, technical acumen, and passion for excellence make me ideal for this position.
+
+EXPERIENCE
+Company Commander, Captain						July 2020 – Nov 2021
+Company B, Headquarters & Support Battalion, Marine Corps Installations East, Camp Lejeune
+•	Led 500 Marines and Sailors and 1,000 Civilian employees across 25 sections in the largest Company in the USMC, ensuring their well-being and accomplishing all assigned missions.  
+
+Communications Officer, Current Operations Officer, Captain		July 2019-July 2020
+Marine Corps Installations East, Camp Lejeune Marine Base & New River Air Station
+•	Led numerous technical projects including:
+o	Led the post-hurricane inspection of 1,900 communications closets, validating Layer 1 and Layer 2 functionality and environmental conditions for switches, routers, and UPS devices.
+o	Worked with vendors in the systematic transition into a new data center, including physical design, installation, troubleshooting, and security accreditation per NIST RMF guidelines.
+o	Systematically transitioned users from legacy networks, ensuring minimal disruption.
+o	Supervised the installation of fiber cable to replace legacy copper on base.
+o	Tested and provided customer support for the installation of WiFi APs across base.
+o	Utilized cellular hotspots to provide Internet connectivity for remote locations and services.
+•	Project Manager:  Led 15 cross-departmental project team members to provide immediate response to the COVID-19 pandemic, improving the cyber security posture of VPN users, and developing a Communications Took Kit for users across the entire Installation.
+•	Program Manager for 3 data center security accreditation packages, including supervising the migration and installation of equipment into a new data center, maintaining fire suppressant safety systems, and upgrading existing copper to fiber cable across the base.
+•	6 month Advanced Communications Officer Course – Advanced, enterprise-wide training.
+
+Communications Officer, Communications Company, Captain		Jan 2019-July 2019
+2d Marine Logistics Group, Communications Company, Camp Lejeune, NC 
+•	Engineered and designed the military network for numerous exercises including:
+o	As NOC Commander, created and reviewed communication plans for 8 field exercises.  Responsible for 24/7 connectivity serving as primary support for operational units, quickly resolving trouble tickets and outages in the network.
+o	As Operations Officer, planned and executed 3 comm exercises for 150 Marines. 
+o	Ensured successful, systematic troubleshooting of LAN and WAN services by leading daily operations briefs and continuous network monitoring with SolarWinds.
+•	Developed test plan and systematically measured the performance of new bandwidth-reducing software resulting in an estimated annual ROI of $42,000.
+
+Communications Liaison Advisor, First Lieutenant		July 2017 – Dec 2018
+Georgia Liaison Team-7, Tbilisi, Georgia, Hohlenfels, Germany, & Bagram AFB, Afghanistan
+•	Primary Communications Advisor for 60 Marines and 560 Georgian infantry soldiers.
+•	Conducted monthly equipment inventories for 491 principal end items across 3 entry-control points, over 50 security towers along the perimeter for 22 sq miles of base, including 3 Combat Operation Centers, multiple retransmission sites, and redundant communications for over 20 tactical vehicles.
+•	Increased data capabilities by installing 89 networked assets across the base. 
+•	Led the cryptographic key management program for five incident-free months including weekly crypto rollovers of 193 radios. 
+•	Provided 24/7 service for communication issues by processing 122 maintenance requests, submitting 467 Remedy trouble tickets, and creating 267 user accounts. 
+•	Installed and managed the first Georgian morale wireless internet for six billeting locations.
+
+Cyber Platoon Commander and Officer Student, Second Lieutenant	Jan 2015 – July 2017
+Communications Company, Camp Lejeune, NC.  Quantico, VA
+•	Led 41 Marines through the planning and installation of cyber networks for 4 field exercises, including providing HSRP/GLBP redundancy, installation of Smart TVs and VTC equipment, QoS, VoIP and POTS, etherchannel, and network monitoring with SolarWinds.
+•	Managed equipment inventory account for 492 communications end-items worth $4,954,228.
+•	6 month Basic Communications Officer Course – learned full range of tactical comms.
+
+Enlisted Marine, Private First Class through Sergeant			Aug 2011 – Jan 2015 	
+7th Communication Battalion, Okinawa, Japan.  San Diego and 29 Palms, CA
+•	Platoon Sergeant and Training NCO for SWAT Platoon (Switch, Wire, and Tech Control).
+•	Meritoriously promoted to Corporal and Sergeant.
+•	Received 2x Cert of Achievement from SecDef (Hon. C. Hagel).  
+•	Over 70 hour community service across 20 events.
+
+EDUCATION
+PhD – Research Psychology (ABD)
+-Northcentral University, La Jolla, CA, Feb 2021, GPA 3.30
+-Dissertation:  Authentic and Transformational Leadership in the USMC (not finished)
+MBA – Dual emphases in Management Information Systems and Finance
+-Bellevue University, Bellevue, NE, August 2007, GPA 3.35 
+BA – Dual majors in Philosophy and Political Science
+-Concordia College, Moorhead, MN, May 2005, GPA 3.21 
+
+CIVILIAN WORK EXPERIENCE
+College Adjunct Professor, Part-time, Bellevue University			Mar 2022 - Present
+•	2x Online classes:  CIS212-Communicating in a Digital World
+
+College Adjunct Professor, Bellevue University				Aug 2010 - Apr 2012
+•	Face-to-face classes:  MIS, Accounting for IT Pros, E-Commerce.
+
+Outside Sales Representative, All Copy Products				May 2008 – Jul 2009
+•	Geographical territory sales development:  South Fort Collins, CO.
+•	Client expense analysis for printing and equipment expenses, used for purchasing decisions.
+
+Hotel General Manager, La Quinta Inn, Fort Collins, CO			Nov 2007 –May 2008
+•	Managed front desk staff (6 people), hired, interviewed, and trained staff.
+•	Customer service, customer relations, group bookings, and event planning.
+•	Online third party site management (Hotels.com, Expedia, Travelocity, Priceline, etc).
+
+Accounts Payable, Logistics, Video King Gaming, Omaha, NE		Sept 2006 – Oct 2007
+•	Provided visibility and control to international freight operations, managed freight expenses, conducted freight analysis, and negotiated freight agreements.
+•	Standardized freight operations across two satellite locations and global distribution network.
+
+A/P Specialist, A/R Clerk, GiftCertificates.com, Omaha, NE		Aug 2005 – Sept 2006
+•	Upgraded payables to electronic payments using direct deposit, wire transfers, and ACH.
+•	Expense Report Specialist:  Enhanced processes by standardizing forms and procedures.
+•	General ledger management (enhanced transparency by creating sub-accounts in the GL system for specific customer accounts); conducted month-end and year-end reconciliations.
+•	Process standardization, streamlining, and systems automation experience.
+
+PERSONAL SKILLS & QUALIFICATIONS
+•	Certifications and Training:  160 hours of CCNP-ENCOR/ENARSI training (2022), CCNA (2022), CompTIA Sec+ (2022), Project+ (v.5 Beta pending results), Network Plus (2016), 40 hours CISSP training, USMC Basic & Advanced Communications Officer Courses (12 months total).
+•	Personal Strengths:  Expert communicator, confident leader and speaker, highly motivated, and continuously striving for improvement and humility.
+
+
+
+
+
+
+Thank you for taking the time to learn more about me!
+Brenden “Dax” McDaniel
+
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: Captain-Dax # DO NOT include the @ character, or else the build will fail!
+github_username:  Captain-Dax # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
